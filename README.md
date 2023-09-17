@@ -2,6 +2,9 @@
 
 BizCardX is a simple program that anyone can use to get data from business cards. The software uses optical character recognition (OCR) technology to read the information on business cards, classifying the data using regular expressions before extracting it into an SQL database. A user interface created using streamlit allows users to retrieve the collected data. The BizCardX program has a straightforward UI that walks users through uploading a photo of a business card and then extracting the relevant data. The gathered data would be presented in an orderly, and its incorporation into the database would be as simple as clicking a button. The information in the database may be read, changed, and removed by the user at will.
 
+### Link : <a href="https://www.linkedin.com/posts/activity-7109057220062908416-vr3l?utm_source=share&utm_medium=member_desktop">LinkedIn Post / Working Model Video</a>
+<br/>
+
 ## Prerequisites
 1. **Python** -- Programming Language
 2. **pandas** -- Python Library for Data Visualization
